@@ -1,0 +1,30 @@
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.exe.config
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.exe
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.pdb
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csprojAssemblyReference.cache
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.frmMain.resources
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.Properties.Resources.resources
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csproj.GenerateResource.cache
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.exe
+C:\Users\Yuri Pinheiro\source\repos\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.pdb
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.exe.config
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.exe
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.pdb
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csprojAssemblyReference.cache
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.frmMain.resources
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.Properties.Resources.resources
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csproj.GenerateResource.cache
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.exe
+C:\Users\yuri\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.pdb
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.exe.config
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.exe
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\SincronizaNotas.pdb
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csprojAssemblyReference.cache
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.frmMain.resources
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.Properties.Resources.resources
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csproj.GenerateResource.cache
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.exe
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.pdb
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Debug\SincronizaNotas.csproj.CopyComplete

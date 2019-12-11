@@ -1,0 +1,11 @@
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Release\SincronizaNotas.exe.config
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Release\SincronizaNotas.exe
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Release\SincronizaNotas.pdb
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.frmMain.resources
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.Properties.Resources.resources
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.csproj.GenerateResource.cache
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.csproj.CopyComplete
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.exe
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.pdb
+C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.csprojAssemblyReference.cache
