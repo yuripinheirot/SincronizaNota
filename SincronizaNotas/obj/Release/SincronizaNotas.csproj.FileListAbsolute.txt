@@ -9,3 +9,15 @@ C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\Sincr
 C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.exe
 C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.pdb
 C:\Users\Yuri Pinheiro\Desktop\SincronizaNotas\SincronizaNotas\obj\Release\SincronizaNotas.csprojAssemblyReference.cache
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\bin\Release\SincronizaNotas.exe.config
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\bin\Release\SincronizaNotas.exe
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\bin\Release\SincronizaNotas.pdb
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.csprojAssemblyReference.cache
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.frmMain.resources
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.Properties.Resources.resources
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.csproj.GenerateResource.cache
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.csproj.CopyComplete
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.exe
+C:\Users\yuri\Documents\Github\SincronizaNota\SincronizaNotas\obj\Release\SincronizaNotas.pdb

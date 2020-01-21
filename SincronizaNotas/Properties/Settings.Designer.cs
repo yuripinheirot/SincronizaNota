@@ -12,7 +12,7 @@ namespace SincronizaNotas.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.3.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.2.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace SincronizaNotas.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\ecosis\\dados\\DocesJardim\\2019")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\dados\\DocesJardim\\")]
         public string dirOrigem {
             get {
                 return ((string)(this["dirOrigem"]));
@@ -37,7 +37,7 @@ namespace SincronizaNotas.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\ecosis\\dados\\DocesJardim\\SAIDA")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\Dados\\DocesJardim\\2019.12.04\\SAIDA")]
         public string dirDestino {
             get {
                 return ((string)(this["dirDestino"]));
@@ -51,7 +51,7 @@ namespace SincronizaNotas.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute(@"User=SYSDBA;   
  Password=masterkey;   
- Database=c:\ecosis\dados\docesjardim.eco;   
+ Database=d:\dados\docesjardim\ecodados.eco;   
  DataSource=localhost;   
  Port=3050;   
  Dialect=3;   

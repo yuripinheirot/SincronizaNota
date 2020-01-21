@@ -41,7 +41,7 @@ namespace SincronizaNotas
             int barValue = Directory.GetFiles(pathOrigem, "*.pdf", SearchOption.AllDirectories).Length;
             progressBar.Value = 0;
             progressBar.Maximum = barValue;
-            void status(tbx)
+            
 
             try
             {
@@ -100,6 +100,8 @@ namespace SincronizaNotas
         private void frmMain_Load(object sender, EventArgs e)
         {
             fswMonitor.Path = Properties.Settings.Default.dirOrigem;
+            fswMonitor.EnableRaisingEvents = true;
+            btnSincronizar.Enabled = true;
         }
     }
 }

@@ -32,9 +32,10 @@ namespace SincronizaNotas
 
                 string vendedor = dataVenda[0];
                 string mesPasta = Convert.ToDateTime(dataVenda[1]).ToString("MM");
+                string anoPasta = Convert.ToDateTime(dataVenda[1]).ToString("yyyy");
                 string dirDestino =Properties.Settings.Default.dirDestino;
                 string dirOrigem = Properties.Settings.Default.dirOrigem;
-                string dirDestinoFinal = dirDestino + @"\" + vendedor + @"\" + mesPasta;
+                string dirDestinoFinal = dirDestino + @"\"+ vendedor + @"\" + anoPasta + @"\" + mesPasta;
 
                 if (string.IsNullOrWhiteSpace(vendedor))
                 {
